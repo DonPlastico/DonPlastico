@@ -3,7 +3,7 @@
   <h3>Técnico SMR & Desarrollador Web en formación (DAW)</h3>
 </div>
 
-<img src="https://i.imgur.com/yCHGzHd.png">
+<img width="996" height="441" alt="Banner" src="https://github.com/user-attachments/assets/255b3159-64c9-447b-baa7-0292ad84e7b0" />
 
 ## Sobre mí
 
