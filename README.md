@@ -19,7 +19,7 @@ Soy un perfil técnico apasionado por la lógica de programación, el scripting 
 ### 🛠️ Stack Tecnológico
 
 * **Lenguajes principales:** `Lua` | `JavaScript` | `HTML5 & CSS3` | `Python (En aprendizaje)`
-* **En aprendizaje continuo:** `C# (En aprendizaje)` | `PHP` | `SQL`
+* **En aprendizaje continuo:** `C#` | `PHP` | `SQL`
 * **Herramientas & Formatos:** `Git / GitHub` | `JSON` | `Blender` | `3ds Max` | `Packet Tracer`
 
 <br>
