@@ -23,7 +23,3 @@ Soy un perfil técnico apasionado por la lógica de programación, el scripting 
 * **Herramientas & Formatos:** `Git / GitHub` | `JSON` | `Blender` | `3ds Max` | `Packet Tracer`
 
 <br>
-
-<div align="center">
-  <i>Buscando incorporarme a un equipo técnico para realizar el módulo de prácticas FCT a partir de septiembre de 2026.</i>
-</div>
